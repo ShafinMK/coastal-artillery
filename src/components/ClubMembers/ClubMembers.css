@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+.kdamthmorFont{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.staatlichesFont{
+    font-family: 'Staatliches', cursive;
+}
+
+.clubMemberBg{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images3.alphacoders.com/264/thumb-1920-264769.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
